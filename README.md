@@ -16,7 +16,7 @@
 
 < SUMMARY CHANGE >
 
-TrustSwap is a DEFI 3.0 exchange built for Antelope EVMs.Easy to use, yet powerful for the most advanced users. The future is cross-chain and we will be ready to embrace it !
+TrustSwap is a DEFI 3.0 exchange built for Antelope EVMs. Easy to use, yet powerful for the most advanced users. The future is multi-chain and we are ready to embrace it!
 
 
 ***
